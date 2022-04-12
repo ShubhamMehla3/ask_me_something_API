@@ -3,5 +3,5 @@ pdftotext==2.2.2
 transformers==4.10.0
 gunicorn
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==1.6.0+cpu
+torch==1.11.0+cpu
 torchvision==0.7.0+cpu
