@@ -1,0 +1,5 @@
+Flask==1.1.2
+pdftotext==2.2.2
+torch==1.9.1
+transformers==4.10.0
+gunicorn
