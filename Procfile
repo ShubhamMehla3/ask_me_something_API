@@ -1,1 +1,1 @@
-web: gunicorn ask_me:app
+web: gunicorn ask_me.wsgi
