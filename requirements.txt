@@ -1,5 +1,6 @@
 Flask==1.1.2
 pdftotext==2.2.2
-torch===1.4.0 torchvision===0.5.0 -f https://download.pytorch.org/whl/torch_stable.html
 transformers==4.10.0
 gunicorn
+https://download.pytorch.org/whl/cpu/torch-1.5.1%2Bcpu-cp37-cp37m-linux_x86_64.whl
+https://download.pytorch.org/whl/cpu/torchvision-0.6.1%2Bcpu-cp37-cp37m-linux_x86_64.whl
